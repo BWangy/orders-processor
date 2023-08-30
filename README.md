@@ -1,1 +1,1 @@
-# orders-processor
+This program processes purchase orders made by customers. The purchase orders are represented by text files that include the client's id and the items they purchased. The program will allow users to process the orders using either a single thread or multithreading (using one thread per order). When the program is executed, it will generate a report of each client's orders as well as a summary of all the orders from all the clients.
